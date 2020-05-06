@@ -1,0 +1,17 @@
+body {
+    background-color: peachpuff;
+    font-family: "Roboto Mono", monospace;
+    line-height: 1.5;
+}
+
+h1, h2, h3, h4 {
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+nav {
+    background-color: #ffd700;
+}
+
+#about {
+    background-color: lightgray;
+}
